@@ -73,5 +73,9 @@ p{
     margin: 25px auto;
     font-size: 17px;
     line-height: 1.2;
-    font-family: fantasy;
+    font-family:monospace;
 }
+
+.menu {
+    list-style: none;
+font-family: 'Roboto', sans-serif;}
